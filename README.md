@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prinudickson
 - 👀 I’m interested in Web Development & Machine learning
-- 🌱 I’m currently learning Python, Django, FastAPI, R RShiny, React, Docker & Kubernetes
+- 🌱 I’m currently learning Python, Django, FastAPI, R, RShiny, React, Docker & Kubernetes
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me prinudickson@gmail.com
 
